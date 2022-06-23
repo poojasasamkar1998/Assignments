@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\Assignments\Assignments\obj\Debug\Assignments.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Assignments\Assignments\obj\Debug\Assignments.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\Assignments\Assignments\obj\Debug\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Assignments\Assignments\bin\Debug\Assignments.exe.config
+C:\Users\dell\source\repos\Assignments\Assignments\bin\Debug\Assignments.exe
+C:\Users\dell\source\repos\Assignments\Assignments\bin\Debug\Assignments.pdb
+C:\Users\dell\source\repos\Assignments\Assignments\obj\Debug\Assignments.exe
+C:\Users\dell\source\repos\Assignments\Assignments\obj\Debug\Assignments.pdb
