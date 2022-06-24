@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\Assignments\Employee\bin\Debug\net6.0\LitwareLib.deps.json
+C:\Users\dell\source\repos\Assignments\Employee\bin\Debug\net6.0\LitwareLib.dll
+C:\Users\dell\source\repos\Assignments\Employee\bin\Debug\net6.0\LitwareLib.pdb
+C:\Users\dell\source\repos\Assignments\Employee\obj\Debug\net6.0\LitwareLib.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Assignments\Employee\obj\Debug\net6.0\LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Assignments\Employee\obj\Debug\net6.0\LitwareLib.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Assignments\Employee\obj\Debug\net6.0\LitwareLib.AssemblyInfo.cs
+C:\Users\dell\source\repos\Assignments\Employee\obj\Debug\net6.0\LitwareLib.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Assignments\Employee\obj\Debug\net6.0\LitwareLib.dll
+C:\Users\dell\source\repos\Assignments\Employee\obj\Debug\net6.0\refint\LitwareLib.dll
+C:\Users\dell\source\repos\Assignments\Employee\obj\Debug\net6.0\LitwareLib.pdb
+C:\Users\dell\source\repos\Assignments\Employee\obj\Debug\net6.0\ref\LitwareLib.dll
