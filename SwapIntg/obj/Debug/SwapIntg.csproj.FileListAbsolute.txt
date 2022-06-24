@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\Assignments\SwapIntg\bin\Debug\SwapIntg.exe.config
+C:\Users\dell\source\repos\Assignments\SwapIntg\bin\Debug\SwapIntg.exe
+C:\Users\dell\source\repos\Assignments\SwapIntg\bin\Debug\SwapIntg.pdb
+C:\Users\dell\source\repos\Assignments\SwapIntg\obj\Debug\SwapIntg.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Assignments\SwapIntg\obj\Debug\SwapIntg.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\Assignments\SwapIntg\obj\Debug\SwapIntg.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Assignments\SwapIntg\obj\Debug\SwapIntg.exe
+C:\Users\dell\source\repos\Assignments\SwapIntg\obj\Debug\SwapIntg.pdb
